@@ -13,15 +13,15 @@ There are 2 ways to run the simulations,
 * using _launch1_pr2.launch_ 
 
 (1) Start an instance of the master     
-(2) Start the simulations with _roslaunch laser_obstacle_avoidance launch1_pr2.launch_  
+(2) Start the simulations with _roslaunch laser_obstacle_avoidance_pr2 launch1_pr2.launch_  
 (3) Put in your own obstacles in the empty world    
-(4) Start obstacle avoidance with _roslaunch laser_obstacle_avoidance obs_pr2.launch_
+(4) Start obstacle avoidance with _roslaunch laser_obstacle_avoidance_pr2 obs_pr2.launch_
 
 ![Image Alt](https://lh6.googleusercontent.com/-A7nduyn8cwg/URqCVGnHPtI/AAAAAAAACUk/vwScjbne894/s576/l.png) 
 
 * using _launch2_pr2.launch_ 
 
 (1) Start an instance of the master     
-(2) Start the simulations with _roslaunch laser_obstacle_avoidance launch2_pr2.launch_
+(2) Start the simulations with _roslaunch laser_obstacle_avoidance_pr2 launch2_pr2.launch_
 
 ![Image Alt](https://lh4.googleusercontent.com/-314C7cq5eBM/URqCVDcJqwI/AAAAAAAACUc/nFHaCWArhco/s576/j.png) 
