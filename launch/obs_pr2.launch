@@ -1,0 +1,8 @@
+<launch>
+
+  <!-- obstacle avoidance -->
+  <node pkg="laser_obstacle_avoidance_pr2" type="obs_pr2" name="obs_pr2" output="screen">
+  </node>
+
+</launch>
+
