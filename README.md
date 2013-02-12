@@ -25,3 +25,8 @@ There are 2 ways to run the simulations,
 (2) Start the simulations with _roslaunch laser_obstacle_avoidance_pr2 launch2_pr2.launch_
 
 ![Image Alt](https://lh4.googleusercontent.com/-314C7cq5eBM/URqCVDcJqwI/AAAAAAAACUc/nFHaCWArhco/s576/j.png) 
+
+Testing
+-------
+Successfully tested on ROS Fuerte 
+
