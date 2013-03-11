@@ -59,6 +59,7 @@ int main(int argc, char **argv)
   ros::NodeHandle n;
   ros::NodeHandle nh;
   vel_pub = nh.advertise<geometry_msgs::Twist>("base_controller/command",1);
+  // instead of pr2, if the node has to be used for roomba use "cmd_vel" instead of "base_controller/command"
   cmdvel.linear.x=0;
   cmdvel.linear.y=0;
   cmdvel.linear.z=0;
