@@ -2,7 +2,7 @@ laser_obstacle_avoidance_pr2
 ============================
 Authors : Koushik Kabiraj (koushik.atti@gmail.com) and Arkapravo Bhaumik (arkapravobhaumik@gmail.com)
 
-ROS node for laser obstacle avoidance for the PR2 robot
+ROS node for laser obstacle avoidance for the PR2 robot in gazebo simulations
 
 Running the node in Gazebo
 --------------------------
